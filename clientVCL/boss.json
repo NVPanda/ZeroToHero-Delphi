@@ -1,0 +1,11 @@
+{
+	"name": "Delphi_ZeroToHero_NVPanda",
+	"description": "Desenvolvendo aplicação com RAD STUDIO e ROUTER4D - Treinamento Delphi do Zero to Hero",
+	"version": "0.0.1",
+	"homepage": "https://github.com/nvpanda",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/bittencourtthulio/router4delphi": "^1.0.8"
+	}
+}
